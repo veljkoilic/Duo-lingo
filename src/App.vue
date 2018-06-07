@@ -1,5 +1,7 @@
 <template>
   <div id="app">
+    <h1> <i class="fab fa-youtube"></i> VueTube</h1>
+
 
 
 
