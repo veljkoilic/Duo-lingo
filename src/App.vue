@@ -20,13 +20,19 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss">
+body{
+  background: #273043;
 #app {
+  h1{
+    color: #E71D36;
+    margin-left: 50px;
+  }
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
   color: #2c3e50;
   margin-top: 60px;
-}
+    
+}}
 </style>
